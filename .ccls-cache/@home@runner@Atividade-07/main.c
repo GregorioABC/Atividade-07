@@ -53,6 +53,7 @@
 // }
 //4
 // o 4 eu não consegui fazer.
+//
 // #include <stdio.h>
 // #include <stdlib.h>
 // int trocar(int *a, int *b){
